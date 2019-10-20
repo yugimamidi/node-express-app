@@ -27,6 +27,8 @@ app.get('/', function (req, res) {
     '/yo/Dr.Rogers <br>' +
     '/fancy/?first=Denise&last=Case <br>' +
     '<br> <br>' +
+    'hello everyone'+
+    '<hr>'+
     'Fork the source code from <a href="https://github.com/denisecase/node-express-app">https://github.com/denisecase/node-express-app</a>'
   )
 })
