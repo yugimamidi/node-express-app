@@ -22,7 +22,7 @@ app.get('/', function (req, res) {
     'click here for w3schools <br>'+
     '<a href="https://www.w3schools.com/tags/tag_script.asp">w3schools</a> <br><hr>'+
     'click here for express repo <br>'+
-    '<a href="https://github.com/yugimamidi/node-express-app">Repo link</a> <br><hr>'+
+    '<a href="https://github.com/yugimamidi/node-express-app">Repo link</a> <br><hr><hr>'+
     'Fork the source code from <a href="https://github.com/denisecase/node-express-app">https://github.com/denisecase/node-express-app</a>'
   )
 })
